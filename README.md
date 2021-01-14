@@ -1,1 +1,1 @@
-# In Classification-Problems,Problem are solved by using Logistic Regression,K Near Neighbors(KNN),Navie Bayes,Decesion Tree and Score victor Machine(SVMs)Algorithem.
+# In Classification-Problems,Problem are solved by using Logistic Regression,K Near Neighbors(KNN),Navie Bayes,Decesion Tree and Score victor Machine(SVMs)Algorithem and Heart disease prediction project on logistic regression algorithem.
